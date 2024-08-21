@@ -34,3 +34,5 @@ A continuación se presenta el flujo de trabajo utilizado en el desarrollo del p
 *Figura 1: Diagrama del Flujo de Trabajo del Proyecto*
 
 Este diagrama ilustra las principales etapas del proceso, desde la recopilación de datos hasta la implementación del modelo predictivo y la generación de recomendaciones personalizadas para la orientación vocacional.
+
+Repositorio del proyecto para implementar : https://github.com/Cristhian-Guerrero/modelo
