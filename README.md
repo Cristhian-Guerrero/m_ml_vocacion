@@ -10,7 +10,7 @@ Este repositorio está organizado en varias secciones para facilitar la navegaci
 - **`imagenes/`**: Imágenes utilizadas en el artículo científico, disponibles en alta resolución para un análisis detallado.
 - **`documentos/`**: El artículo científico completo en formato PDF, siguiendo el estándar IEEE.
 - **`datos/`**: Conjuntos de datos utilizados en el proyecto, necesarios para reproducir los análisis y entrenar los modelos.
-- **`modelos/`**: Modelos de Machine Learning entrenados, listos para su implementación o para realizar nuevas predicciones.
+
 
 ## Objetivo del Proyecto
 
