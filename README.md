@@ -1,8 +1,8 @@
-# Más allá de las notas: IA para una orientación vocacional completa
+# 📊 Más allá de las notas: IA para una orientación vocacional completa
 
-Este repositorio centraliza todo el material relacionado con un proyecto de predicción de carreras basado en Machine Learning, así como el artículo científico asociado. El objetivo de este proyecto es desarrollar y documentar un modelo predictivo que apoye la orientación vocacional de estudiantes de grado once.
+Este repositorio centraliza todo el material relacionado con un proyecto de predicción de carreras basado en **Machine Learning**, así como el artículo científico asociado. El objetivo de este proyecto es desarrollar y documentar un modelo predictivo que apoye la orientación vocacional de estudiantes de grado once.
 
-## Contenidos del Repositorio
+## 📂 Contenidos del Repositorio
 
 Este repositorio está organizado en varias secciones para facilitar la navegación y el acceso a los diferentes componentes del proyecto:
 
@@ -11,14 +11,13 @@ Este repositorio está organizado en varias secciones para facilitar la navegaci
 - **`documentos/`**: El artículo científico completo en formato PDF, siguiendo el estándar IEEE.
 - **`datos/`**: Conjuntos de datos utilizados en el proyecto, necesarios para reproducir los análisis y entrenar los modelos.
 
+## 🎯 Objetivo del Proyecto
 
-## Objetivo del Proyecto
+### Objetivo General
 
-### 1.4. Objetivo General
+**Construir un modelo predictivo basado en Machine Learning** para predecir resultados de la orientación vocacional de los estudiantes de grado once de la I.E.M Luis Eduardo Mora Osejo de Pasto - Nariño, utilizando datos académicos.
 
-Construir un modelo predictivo basado en Machine Learning para predecir resultados de la orientación vocacional de los estudiantes de grado once de la I.E.M Luis Eduardo Mora Osejo de Pasto - Nariño, utilizando datos académicos.
-
-### 1.5. Objetivos Específicos
+### Objetivos Específicos
 
 - **Identificar las variables más relevantes:** Identificar las variables más relevantes en el contexto académico para la orientación vocacional de los estudiantes de grado once de la I.E.M Luis Eduardo Mora Osejo de Pasto - Nariño.
 
@@ -26,7 +25,7 @@ Construir un modelo predictivo basado en Machine Learning para predecir resultad
 
 - **Evaluar la efectividad del modelo:** Evaluar la efectividad del modelo de aprendizaje automático propuesto para predecir la probabilidad de que los estudiantes sigan una carrera en particular con base en sus datos académicos y otros factores relevantes, utilizando métricas que faciliten su análisis.
 
-## Flujo de Trabajo
+## 🛠️ Flujo de Trabajo
 
 A continuación se presenta el flujo de trabajo utilizado en el desarrollo del proyecto:
 
