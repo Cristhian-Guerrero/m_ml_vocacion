@@ -14,9 +14,24 @@ Este repositorio está organizado en varias secciones para facilitar la navegaci
 
 ## Objetivo del Proyecto
 
-Este proyecto tiene como objetivo desarrollar un sistema predictivo que pueda sugerir las carreras más adecuadas para los estudiantes basándose en sus calificaciones académicas. Además, el artículo científico incluido documenta la metodología, resultados, y conclusiones obtenidas a lo largo del desarrollo del proyecto.
+### 1.4. Objetivo General
 
-## Instalación y Uso
+Construir un modelo predictivo basado en Machine Learning para predecir resultados de la orientación vocacional de los estudiantes de grado once de la I.E.M Luis Eduardo Mora Osejo de Pasto - Nariño, utilizando datos académicos.
 
-Instrucciones detalladas sobre cómo clonar el repositorio, configurar el entorno, y ejecutar los notebooks o modelos se agregarán aquí.
+### 1.5. Objetivos Específicos
 
+- **Identificar las variables más relevantes:** Identificar las variables más relevantes en el contexto académico para la orientación vocacional de los estudiantes de grado once de la I.E.M Luis Eduardo Mora Osejo de Pasto - Nariño.
+
+- **Proponer un modelo de Machine Learning:** Proponer un modelo de Machine Learning para predecir la probabilidad de que los estudiantes sigan una carrera en particular en función de sus datos académicos.
+
+- **Evaluar la efectividad del modelo:** Evaluar la efectividad del modelo de aprendizaje automático propuesto para predecir la probabilidad de que los estudiantes sigan una carrera en particular con base en sus datos académicos y otros factores relevantes, utilizando métricas que faciliten su análisis.
+
+## Flujo de Trabajo
+
+A continuación se presenta el flujo de trabajo utilizado en el desarrollo del proyecto:
+
+![Flujo de Trabajo](https://github.com/Cristhian-Guerrero/m_ml_vocacion/blob/Master/imagenes/proceso.png?raw=true)
+
+*Figura 1: Diagrama del Flujo de Trabajo del Proyecto*
+
+Este diagrama ilustra las principales etapas del proceso, desde la recopilación de datos hasta la implementación del modelo predictivo y la generación de recomendaciones personalizadas para la orientación vocacional.
