@@ -1,4 +1,4 @@
-# Proyecto de Predicción de Carreras y Artículo Científico
+# Más allá de las notas: IA para una orientación vocacional completa
 
 Este repositorio centraliza todo el material relacionado con un proyecto de predicción de carreras basado en Machine Learning, así como el artículo científico asociado. El objetivo de este proyecto es desarrollar y documentar un modelo predictivo que apoye la orientación vocacional de estudiantes de grado once.
 
